@@ -44,7 +44,7 @@ pip install -r requirements.txt
 :: Run the Python script
 echo Running Python script...
 cls
-python tviews.py
+python main.py
 
 :: Prompt to close the batch script
 echo Press any key to close...
