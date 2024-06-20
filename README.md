@@ -2,6 +2,7 @@
 
 CryptoPriceNotifier is a simple Python script that fetches the current prices of Bitcoin and Ethereum from the CoinGecko API and sends them to a Discord webhook every hour. The script uses `schedule` for task scheduling and `requests` for HTTP requests.
 
+
 ## Features
 
 - Fetches Bitcoin and Ethereum prices from CoinGecko API
