@@ -4,6 +4,7 @@ import argparse
 import logging
 from prettytable import PrettyTable
 
+
 class CryptoPriceFetcher:
     def __init__(self, config):
         self.api_url = "https://api.coingecko.com/api/v3/simple/price"
